@@ -1,0 +1,36 @@
+---
+title: "Day2数组02-209/59/303/304-滑动窗口/模拟/前缀和"
+date: 2025-06-26
+---
+## 📌 题目索引
+- [209. Minimum Size Subarray Sum](https://yggo.notion.site/LC209-Minimum-Size-Subarray-Sum-21e47d780ccd80e9b789c53b3bc2598e)
+- [59. Spiral Matrix II](https://yggo.notion.site/LC59-Spiral-Matrix-II-21e47d780ccd80fcb5c5d36086079343?source=copy_link)
+- [303/304. Range Sum Query - Immutable](https://yggo.notion.site/LC303-Range-Sum-Query-Immutable-Prefix-Sum-21e47d780ccd802e8601ffada5729667?source=copy_link)
+## 🌟 今日核心收获
+1. **知识重点**：用3-5个关键词总结今日核心算法/技巧（如：KMP前缀表、二叉树递归返回值处理）
+   - Prefix Sum基础
+2. **认知突破**：对比昨日，今天有哪些思维上的提升？（例如：终于理解______的本质其实是______）
+   - 早上起来就准备好刷题了！棒棒
+
+## 📊 整体进度
+- 完成题数：4/4
+
+## 🧠 思维模式观察
+- **反复出现的误区**：（例如：总是忽略边界条件/过度依赖暴力解法）
+  - n/a
+- **解题模式发现**：（例如：发现双指针问题通常有______共同特征）
+  - n/a
+
+## ⏳ 时间管理
+- 有效学习时长：`2h`
+- 时间损耗点：（如：某题卡在______环节消耗过多时间）
+  - 羊了个羊
+
+## 💡 灵感与TODO
+- **延伸学习**：（值得单独研究的关联知识点）
+  - 数组只是一个数据结构，算法是应用中该数据结构上的思想。题单的题目都比较基础，想要深刻理解应用算法还需要照着题单定向刷题。
+- **明日优化**：（如：准备用______方法提高______效率）
+  - 前缀和拓展习题：https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/
+  - 历史Todo：
+    - 二分：https://leetcode.cn/discuss/post/3579164/ti-dan-er-fen-suan-fa-er-fen-da-an-zui-x-3rqn/
+
